@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Anoop MP
-- 👀 I’m interested in Network Programming,Cloud Computing,IOT.
-- 🌱 I’m currently learning Data structures and Algorithms,Automation.
-- 💞️ I’m looking to collaborate on Data structures
-- 📫 How to reach me ...
+- 👀 I’m interested in Embedded Systems,Computer Networks and Cybersecurity.
+- currently learning & working in C++,Embedded C.
+-  
+
+-
 
 <!---
 1anoopmp/1anoopmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
